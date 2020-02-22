@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
+		"price": 2000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
+		"price": 5000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -339,7 +339,42 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "supernova",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "superheatwave",
+		"price": 1800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "bouldermasshit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "leanatmosphere",
+		"price": 6000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "heavyair",
+		"price": 6000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidportal",
+		"price": 3200,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "beetlerush",
+		"price": 12000,
+		"karmatype": "Bad"
 	}
 	],
-	"total": 68
+	"total": 75
 }
