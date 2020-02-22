@@ -638,7 +638,7 @@
 	},
 	{
 		"abr": "advancedwatermillgenerator",
-		"price": 2133,
+		"price": 2142,
 		"category": "Power",
 		"defname": "sd_adv_powergen_WatermillGenerator"
 	},
@@ -692,7 +692,7 @@
 	},
 	{
 		"abr": "ak-47",
-		"price": 583,
+		"price": 592,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_AKFortySeven"
 	},
@@ -872,7 +872,7 @@
 	},
 	{
 		"abr": "archerytarget",
-		"price": 185,
+		"price": 158,
 		"category": "Recreation",
 		"defname": "ArcheryTarget"
 	},
@@ -1029,14 +1029,8 @@
 	{
 		"abr": "bamboo",
 		"price": 2,
-		"category": "Wood types",
+		"category": "Raw resources",
 		"defname": "Bamboo"
-	},
-	{
-		"abr": "bamboolumber",
-		"price": 2,
-		"category": "Lumber",
-		"defname": "LumberBamboo"
 	},
 	{
 		"abr": "banana",
@@ -1141,6 +1135,18 @@
 		"defname": "Bed"
 	},
 	{
+		"abr": "bed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "RGK_bedSingle"
+	},
+	{
+		"abr": "bed2",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "RGK_bedSingleB"
+	},
+	{
 		"abr": "bedroll",
 		"price": 137,
 		"category": "Furniture",
@@ -1189,6 +1195,12 @@
 		"defname": "Seat_Bench"
 	},
 	{
+		"abr": "bench",
+		"price": 358,
+		"category": "Furniture",
+		"defname": "GL_Bench"
+	},
+	{
 		"abr": "bengalcat",
 		"price": 333,
 		"category": "Animal",
@@ -1226,7 +1238,7 @@
 	},
 	{
 		"abr": "billiardstable",
-		"price": 642,
+		"price": 600,
 		"category": "Furniture",
 		"defname": "BilliardsTable"
 	},
@@ -1315,18 +1327,6 @@
 		"defname": "BiosolidsComposter"
 	},
 	{
-		"abr": "birchlogs",
-		"price": 2,
-		"category": "Wood types",
-		"defname": "WoodLog_Birch"
-	},
-	{
-		"abr": "birchlumber",
-		"price": 2,
-		"category": "Lumber",
-		"defname": "LumberBirch"
-	},
-	{
 		"abr": "birdmeat",
 		"price": 3,
 		"category": "Meat",
@@ -1369,18 +1369,6 @@
 		"defname": "AEXP_BlackBear"
 	},
 	{
-		"abr": "blackpalmlogs",
-		"price": 3,
-		"category": "Wood types",
-		"defname": "WoodLog_Palm"
-	},
-	{
-		"abr": "blackpalmlumber",
-		"price": 7,
-		"category": "Lumber",
-		"defname": "LumberPalm"
-	},
-	{
 		"abr": "blendedwool",
 		"price": 4,
 		"category": "Textiles",
@@ -1415,6 +1403,18 @@
 		"price": 4,
 		"category": "Leathers",
 		"defname": "Leather_Bluefur"
+	},
+	{
+		"abr": "bonfire",
+		"price": 417,
+		"category": "Furniture",
+		"defname": "GL_Bonfire"
+	},
+	{
+		"abr": "bookshelf",
+		"price": 908,
+		"category": "Misc",
+		"defname": "GL_Bookshelf"
 	},
 	{
 		"abr": "boomalope",
@@ -1457,6 +1457,12 @@
 		"price": 110,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Footwear_Boots"
+	},
+	{
+		"abr": "bowl",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "RGK_DogBowl"
 	},
 	{
 		"abr": "bowlofstew",
@@ -1592,7 +1598,7 @@
 	},
 	{
 		"abr": "butchertable",
-		"price": 329,
+		"price": 262,
 		"category": "Production",
 		"defname": "TableButcher"
 	},
@@ -1759,18 +1765,6 @@
 		"defname": "CBD"
 	},
 	{
-		"abr": "cecropialogs",
-		"price": 2,
-		"category": "Wood types",
-		"defname": "WoodLog_Cecropia"
-	},
-	{
-		"abr": "cecropialumber",
-		"price": 3,
-		"category": "Lumber",
-		"defname": "LumberCecropia"
-	},
-	{
 		"abr": "ceilingfan1x1",
 		"price": 184,
 		"category": "Hygiene",
@@ -1783,10 +1777,106 @@
 		"defname": "CeilingFan"
 	},
 	{
+		"abr": "celticrug",
+		"price": 304,
+		"category": "Furniture",
+		"defname": "RugA_Small"
+	},
+	{
+		"abr": "celticrug",
+		"price": 304,
+		"category": "Furniture",
+		"defname": "RugB_Small"
+	},
+	{
+		"abr": "celticrug",
+		"price": 304,
+		"category": "Furniture",
+		"defname": "RugC_Small"
+	},
+	{
+		"abr": "celticrug",
+		"price": 400,
+		"category": "Furniture",
+		"defname": "RugA"
+	},
+	{
+		"abr": "celticrug",
+		"price": 400,
+		"category": "Furniture",
+		"defname": "RugB"
+	},
+	{
+		"abr": "celticrug",
+		"price": 400,
+		"category": "Furniture",
+		"defname": "RugC"
+	},
+	{
+		"abr": "celticrug",
+		"price": 500,
+		"category": "Furniture",
+		"defname": "RugA_Large"
+	},
+	{
+		"abr": "celticrug",
+		"price": 500,
+		"category": "Furniture",
+		"defname": "RugB_Large"
+	},
+	{
+		"abr": "celticrug",
+		"price": 500,
+		"category": "Furniture",
+		"defname": "RugC_Large"
+	},
+	{
+		"abr": "celtictable(2x1)",
+		"price": 367,
+		"category": "Furniture",
+		"defname": "RGK_TableE"
+	},
+	{
+		"abr": "celtictable(2x2)",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "RGK_TableB"
+	},
+	{
+		"abr": "celtictable(2x2)",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "RGK_TableD"
+	},
+	{
+		"abr": "celtictable(2x2)",
+		"price": 692,
+		"category": "Furniture",
+		"defname": "RGK_TableG"
+	},
+	{
+		"abr": "celtictable(3x2)",
+		"price": 650,
+		"category": "Furniture",
+		"defname": "RGK_TableF"
+	},
+	{
+		"abr": "celtictable(3x3)",
+		"price": 850,
+		"category": "Furniture",
+		"defname": "RGK_TableH"
+	},
+	{
 		"abr": "chainmail",
 		"price": 417,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_Chainmail"
+	},
+	{
+		"abr": "chair",
+		"price": 180,
+		"category": "Furniture",
+		"defname": "RGK_Chair"
 	},
 	{
 		"abr": "chargeblasterauto-turret",
@@ -1951,6 +2041,12 @@
 		"defname": "Building_RTCircuitBreaker"
 	},
 	{
+		"abr": "classydoublebed",
+		"price": 942,
+		"category": "Furniture",
+		"defname": "GL_ClassyDoubleBed"
+	},
+	{
 		"abr": "cleanerbasestation",
 		"price": 833,
 		"category": "Furniture",
@@ -2077,18 +2173,6 @@
 		"defname": "CochlearImplant"
 	},
 	{
-		"abr": "cocoawoodlogs",
-		"price": 3,
-		"category": "Wood types",
-		"defname": "WoodLog_Cocoa"
-	},
-	{
-		"abr": "cocoawoodlumber",
-		"price": 5,
-		"category": "Lumber",
-		"defname": "LumberCocoa"
-	},
-	{
 		"abr": "coconut",
 		"price": 2,
 		"category": "Fruits",
@@ -2111,6 +2195,12 @@
 		"price": 7,
 		"category": "Plant matter",
 		"defname": "CPD_CoffeeBeans"
+	},
+	{
+		"abr": "combatdummy",
+		"price": 257,
+		"category": "Misc",
+		"defname": "CombatDummy"
 	},
 	{
 		"abr": "component",
@@ -2347,16 +2437,10 @@
 		"defname": "PoweredCultivationBench"
 	},
 	{
-		"abr": "cypresslogs",
-		"price": 2,
-		"category": "Wood types",
-		"defname": "WoodLog_Cypress"
-	},
-	{
-		"abr": "cypresslumber",
-		"price": 5,
-		"category": "Lumber",
-		"defname": "LumberCypress"
+		"abr": "cupboard",
+		"price": 417,
+		"category": "Misc",
+		"defname": "GL_Cupboard"
 	},
 	{
 		"abr": "dartsboard",
@@ -2396,7 +2480,7 @@
 	},
 	{
 		"abr": "degtyarevdp",
-		"price": 742,
+		"price": 750,
 		"category": "Ranged weapons",
 		"defname": "Gun_LMG"
 	},
@@ -2443,6 +2527,12 @@
 		"defname": "DiningChair"
 	},
 	{
+		"abr": "diningchair",
+		"price": 192,
+		"category": "Furniture",
+		"defname": "RGKDiningChair"
+	},
+	{
 		"abr": "doctorscrubs",
 		"price": 193,
 		"category": "Apparel",
@@ -2473,6 +2563,18 @@
 		"defname": "DoubleBed"
 	},
 	{
+		"abr": "doublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "RGK_bedDouble"
+	},
+	{
+		"abr": "doublebed2",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "RGK_bedDoubleB"
+	},
+	{
 		"abr": "doublebedroll",
 		"price": 290,
 		"category": "Furniture",
@@ -2486,27 +2588,21 @@
 	},
 	{
 		"abr": "double-barreledshotgun",
-		"price": 235,
+		"price": 242,
 		"category": "Ranged weapons",
 		"defname": "VFES_Gun_DoubleBarreledShotgun"
-	},
-	{
-		"abr": "dragologs",
-		"price": 3,
-		"category": "Wood types",
-		"defname": "WoodLog_Drago"
-	},
-	{
-		"abr": "dragolumber",
-		"price": 2,
-		"category": "Lumber",
-		"defname": "LumberDrago"
 	},
 	{
 		"abr": "dresser",
 		"price": 179,
 		"category": "Furniture",
 		"defname": "Dresser"
+	},
+	{
+		"abr": "dresser",
+		"price": 179,
+		"category": "Furniture",
+		"defname": "RGK_Dresser"
 	},
 	{
 		"abr": "driedfruit",
@@ -2653,6 +2749,12 @@
 		"defname": "ElectricSmithy"
 	},
 	{
+		"abr": "electricsmithy",
+		"price": 533,
+		"category": "Production",
+		"defname": "GL_ElectricSmithy"
+	},
+	{
 		"abr": "electricstonecutter'stable",
 		"price": 1033,
 		"category": "Production",
@@ -2665,16 +2767,22 @@
 		"defname": "ElectricStove"
 	},
 	{
+		"abr": "electricstove",
+		"price": 383,
+		"category": "Production",
+		"defname": "GL_ElectricStove"
+	},
+	{
 		"abr": "electrictailorbench",
 		"price": 533,
 		"category": "Production",
 		"defname": "ElectricTailoringBench"
 	},
 	{
-		"abr": "electricwoodworkingtable",
-		"price": 525,
+		"abr": "electrictailorbench",
+		"price": 542,
 		"category": "Production",
-		"defname": "ElectricTableWoodworking"
+		"defname": "GL_ElectricTailoringBench"
 	},
 	{
 		"abr": "elephant",
@@ -2735,6 +2843,24 @@
 		"price": 106,
 		"category": "Furniture",
 		"defname": "EndTable"
+	},
+	{
+		"abr": "endtable",
+		"price": 106,
+		"category": "Furniture",
+		"defname": "RGK_EndTable"
+	},
+	{
+		"abr": "endtable",
+		"price": 138,
+		"category": "Furniture",
+		"defname": "RGK_EndTableWithLamp"
+	},
+	{
+		"abr": "endtable",
+		"price": 185,
+		"category": "Furniture",
+		"defname": "RGK_EndTableWithLampE"
 	},
 	{
 		"abr": "erbot(disabled)",
@@ -2879,6 +3005,18 @@
 		"price": 33,
 		"category": "Meals",
 		"defname": "MealFine"
+	},
+	{
+		"abr": "fireplace",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "RGK_Fireplace"
+	},
+	{
+		"abr": "fireplacee",
+		"price": 408,
+		"category": "Furniture",
+		"defname": "RGK_FireplaceE"
 	},
 	{
 		"abr": "firesprinkler",
@@ -3067,10 +3205,22 @@
 		"defname": "FueledSmithy"
 	},
 	{
+		"abr": "fueledsmithy",
+		"price": 367,
+		"category": "Production",
+		"defname": "GL_FueledSmithy"
+	},
+	{
 		"abr": "fueledstove",
 		"price": 265,
 		"category": "Production",
 		"defname": "FueledStove"
+	},
+	{
+		"abr": "fueledstove",
+		"price": 279,
+		"category": "Production",
+		"defname": "RGK_FueledStove"
 	},
 	{
 		"abr": "fueledsweetstable",
@@ -3398,7 +3548,7 @@
 	},
 	{
 		"abr": "greatbow",
-		"price": 147,
+		"price": 94,
 		"category": "Ranged weapons",
 		"defname": "Bow_Great"
 	},
@@ -3485,6 +3635,12 @@
 		"price": 262,
 		"category": "Production",
 		"defname": "HandTailoringBench"
+	},
+	{
+		"abr": "handtailorbench",
+		"price": 225,
+		"category": "Production",
+		"defname": "GL_HandTailoringBench"
 	},
 	{
 		"abr": "hardcandy",
@@ -3962,7 +4118,7 @@
 	},
 	{
 		"abr": "improvisedgasmask",
-		"price": 153,
+		"price": 156,
 		"category": "Headgear",
 		"defname": "Apparel_ImprovGasMask"
 	},
@@ -4127,6 +4283,12 @@
 		"price": 1708,
 		"category": "Brain implants",
 		"defname": "Joywire"
+	},
+	{
+		"abr": "jukebox",
+		"price": 1617,
+		"category": "Recreation",
+		"defname": "JukeBox"
 	},
 	{
 		"abr": "jumpsuit",
@@ -4309,6 +4471,42 @@
 		"defname": "Meat_LabradorRetriever"
 	},
 	{
+		"abr": "lamp",
+		"price": 42,
+		"category": "Furniture",
+		"defname": "RGK_lamp"
+	},
+	{
+		"abr": "lampe",
+		"price": 90,
+		"category": "Furniture",
+		"defname": "RGK_lampE"
+	},
+	{
+		"abr": "lampe(white)",
+		"price": 90,
+		"category": "Furniture",
+		"defname": "GL_lampE_White"
+	},
+	{
+		"abr": "lampm",
+		"price": 42,
+		"category": "Furniture",
+		"defname": "RGK_LampM"
+	},
+	{
+		"abr": "lampm(white)",
+		"price": 42,
+		"category": "Furniture",
+		"defname": "GL_LampM_White"
+	},
+	{
+		"abr": "lamp(white)",
+		"price": 42,
+		"category": "Furniture",
+		"defname": "GL_lamp_White"
+	},
+	{
 		"abr": "largebin",
 		"price": 305,
 		"category": "Furniture",
@@ -4352,7 +4550,7 @@
 	},
 	{
 		"abr": "lee-enfield",
-		"price": 320,
+		"price": 330,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle"
 	},
@@ -4451,6 +4649,12 @@
 		"price": 20,
 		"category": "Raw fish",
 		"defname": "VCEF_RawLobster"
+	},
+	{
+		"abr": "locker",
+		"price": 284,
+		"category": "Furniture",
+		"defname": "GL_Locker"
 	},
 	{
 		"abr": "logboiler",
@@ -4603,6 +4807,12 @@
 		"defname": "AEXP_Mandrill"
 	},
 	{
+		"abr": "manger",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "RGK_Manger"
+	},
+	{
 		"abr": "mango",
 		"price": 2,
 		"category": "Fruits",
@@ -4615,18 +4825,6 @@
 		"defname": "MangoSoda"
 	},
 	{
-		"abr": "maplelogs",
-		"price": 2,
-		"category": "Wood types",
-		"defname": "WoodLog_Maple"
-	},
-	{
-		"abr": "maplelumber",
-		"price": 2,
-		"category": "Lumber",
-		"defname": "LumberMaple"
-	},
-	{
 		"abr": "marbleblocks",
 		"price": 2,
 		"category": "Stone blocks",
@@ -4634,7 +4832,7 @@
 	},
 	{
 		"abr": "martialartstarget",
-		"price": 121,
+		"price": 144,
 		"category": "Recreation",
 		"defname": "MartialArtsTarget"
 	},
@@ -4765,6 +4963,18 @@
 		"defname": "MiniSunLamp"
 	},
 	{
+		"abr": "minitable",
+		"price": 88,
+		"category": "Furniture",
+		"defname": "RGK_MiniTableA"
+	},
+	{
+		"abr": "minitable",
+		"price": 88,
+		"category": "Furniture",
+		"defname": "RGK_MiniTableB"
+	},
+	{
 		"abr": "minitablewithcloth",
 		"price": 263,
 		"category": "Furniture",
@@ -4781,12 +4991,6 @@
 		"price": 2,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMinnow"
-	},
-	{
-		"abr": "mixedlumber",
-		"price": 1,
-		"category": "Lumber",
-		"defname": "WoodLog"
 	},
 	{
 		"abr": "moderncomputer",
@@ -4838,7 +5042,7 @@
 	},
 	{
 		"abr": "mossberg500",
-		"price": 266,
+		"price": 273,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun"
 	},
@@ -4991,18 +5195,6 @@
 		"price": 12,
 		"category": "Smokeleaf Edibles",
 		"defname": "SmokeleafNutriLeaf"
-	},
-	{
-		"abr": "oaklogs",
-		"price": 3,
-		"category": "Wood types",
-		"defname": "WoodLog_Oak"
-	},
-	{
-		"abr": "oaklumber",
-		"price": 6,
-		"category": "Lumber",
-		"defname": "LumberOak"
 	},
 	{
 		"abr": "obelisk",
@@ -5287,18 +5479,6 @@
 		"defname": "VFE_Pillar"
 	},
 	{
-		"abr": "pinelogs",
-		"price": 2,
-		"category": "Wood types",
-		"defname": "WoodLog_Pine"
-	},
-	{
-		"abr": "pinelumber",
-		"price": 5,
-		"category": "Lumber",
-		"defname": "LumberPine"
-	},
-	{
 		"abr": "pineapple",
 		"price": 2,
 		"category": "Fruits",
@@ -5336,7 +5516,7 @@
 	},
 	{
 		"abr": "pkm",
-		"price": 800,
+		"price": 808,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_PKM"
 	},
@@ -5450,7 +5630,7 @@
 	},
 	{
 		"abr": "pokertable",
-		"price": 550,
+		"price": 400,
 		"category": "Furniture",
 		"defname": "PokerTable"
 	},
@@ -5477,18 +5657,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Poodle"
-	},
-	{
-		"abr": "poplarlogs",
-		"price": 2,
-		"category": "Wood types",
-		"defname": "WoodLog_Poplar"
-	},
-	{
-		"abr": "poplarlumber",
-		"price": 3,
-		"category": "Lumber",
-		"defname": "LumberPoplar"
 	},
 	{
 		"abr": "porcupine",
@@ -5636,7 +5804,7 @@
 	},
 	{
 		"abr": "ptrs-41",
-		"price": 850,
+		"price": 867,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_PTRS"
 	},
@@ -5768,7 +5936,7 @@
 	},
 	{
 		"abr": "recurvebow",
-		"price": 100,
+		"price": 60,
 		"category": "Ranged weapons",
 		"defname": "Bow_Recurve"
 	},
@@ -5797,10 +5965,28 @@
 		"defname": "Shelf_RepairRack"
 	},
 	{
+		"abr": "replicaflower",
+		"price": 46,
+		"category": "Furniture",
+		"defname": "RGK_Flower"
+	},
+	{
 		"abr": "resurrectormechserum",
 		"price": 2833,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
+	},
+	{
+		"abr": "rgkbucket",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "RGK_bucketr"
+	},
+	{
+		"abr": "rgkorcbarrel",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "RGK_orc"
 	},
 	{
 		"abr": "rhinoceros",
@@ -5984,13 +6170,13 @@
 	},
 	{
 		"abr": "rpd",
-		"price": 775,
+		"price": 783,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_RPD"
 	},
 	{
 		"abr": "rpg-7",
-		"price": 592,
+		"price": 600,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_RPGSeven"
 	},
@@ -6029,12 +6215,6 @@
 		"price": 1450,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_ChargeSMG"
-	},
-	{
-		"abr": "saguaroribs",
-		"price": 2,
-		"category": "Wood types",
-		"defname": "WoodLog_Saguaro"
 	},
 	{
 		"abr": "saiga12k",
@@ -6121,6 +6301,12 @@
 		"defname": "Shelf"
 	},
 	{
+		"abr": "shelf",
+		"price": 154,
+		"category": "Furniture",
+		"defname": "GL_Shelf"
+	},
+	{
 		"abr": "shelf(1x1)",
 		"price": 52,
 		"category": "Furniture",
@@ -6170,7 +6356,7 @@
 	},
 	{
 		"abr": "shortbow",
-		"price": 61,
+		"price": 34,
 		"category": "Ranged weapons",
 		"defname": "Bow_Short"
 	},
@@ -6223,6 +6409,12 @@
 		"defname": "Bed_Simple"
 	},
 	{
+		"abr": "simplechair",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "RGK_SimpleChair"
+	},
+	{
 		"abr": "simplehelmet",
 		"price": 186,
 		"category": "Headgear",
@@ -6265,6 +6457,12 @@
 		"defname": "SimpleResearchBench"
 	},
 	{
+		"abr": "simpleresearchbench",
+		"price": 350,
+		"category": "Production",
+		"defname": "RGK_SimpleResearchBench"
+	},
+	{
 		"abr": "simpleshower",
 		"price": 52,
 		"category": "Hygiene",
@@ -6296,7 +6494,7 @@
 	},
 	{
 		"abr": "sks",
-		"price": 375,
+		"price": 383,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_SKS"
 	},
@@ -6512,7 +6710,7 @@
 	},
 	{
 		"abr": "sodatable",
-		"price": 282,
+		"price": 302,
 		"category": "Production",
 		"defname": "CPD_DrinksTable"
 	},
@@ -6853,6 +7051,12 @@
 		"defname": "Table2x2c"
 	},
 	{
+		"abr": "table(2x2)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "RGK_TableA"
+	},
+	{
 		"abr": "table(2x4)",
 		"price": 333,
 		"category": "Furniture",
@@ -6863,6 +7067,18 @@
 		"price": 350,
 		"category": "Furniture",
 		"defname": "Table3x3c"
+	},
+	{
+		"abr": "tablec(2x2)",
+		"price": 229,
+		"category": "Furniture",
+		"defname": "RGK_TableC"
+	},
+	{
+		"abr": "tablewareshelf",
+		"price": 279,
+		"category": "Misc",
+		"defname": "GL_TablewareShelf"
 	},
 	{
 		"abr": "tac-50",
@@ -6925,22 +7141,22 @@
 		"defname": "Rawtea"
 	},
 	{
-		"abr": "teaklogs",
-		"price": 4,
-		"category": "Wood types",
-		"defname": "WoodLog_Teak"
-	},
-	{
-		"abr": "teaklumber",
-		"price": 6,
-		"category": "Lumber",
-		"defname": "LumberTeak"
+		"abr": "teaset",
+		"price": 67,
+		"category": "Furniture",
+		"defname": "RGK_Teaset"
 	},
 	{
 		"abr": "techprofsubpersonacore",
 		"price": 1667,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
+	},
+	{
+		"abr": "teddybear",
+		"price": 67,
+		"category": "Furniture",
+		"defname": "GL_Teddy"
 	},
 	{
 		"abr": "telescope",
@@ -7061,6 +7277,24 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Tortoise"
+	},
+	{
+		"abr": "trainingbbgun",
+		"price": 131,
+		"category": "Ranged training weapons",
+		"defname": "Gun_TrainingBBGun"
+	},
+	{
+		"abr": "trainingbow",
+		"price": 74,
+		"category": "Ranged training weapons",
+		"defname": "Bow_TrainingShort"
+	},
+	{
+		"abr": "trainingknife",
+		"price": 55,
+		"category": "Melee training weapons",
+		"defname": "MeleeWeapon_TrainingKnife"
 	},
 	{
 		"abr": "trapperhat",
@@ -7501,6 +7735,18 @@
 		"defname": "Table_Wardrobe"
 	},
 	{
+		"abr": "wardrobe",
+		"price": 417,
+		"category": "Furniture",
+		"defname": "WardrobeA"
+	},
+	{
+		"abr": "wardrobe",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "WardrobeB"
+	},
+	{
 		"abr": "warg",
 		"price": 750,
 		"category": "Animal",
@@ -7591,16 +7837,10 @@
 		"defname": "AEXP_Leather_Wildebeest"
 	},
 	{
-		"abr": "willowlogs",
-		"price": 2,
-		"category": "Wood types",
-		"defname": "WoodLog_Willow"
-	},
-	{
-		"abr": "willowlumber",
-		"price": 4,
-		"category": "Lumber",
-		"defname": "LumberWillow"
+		"abr": "window",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "RGK_window"
 	},
 	{
 		"abr": "wine",
@@ -7615,6 +7855,12 @@
 		"defname": "VG_GrapeMust"
 	},
 	{
+		"abr": "winerack",
+		"price": 185,
+		"category": "Furniture",
+		"defname": "RKGWineRackB"
+	},
+	{
 		"abr": "wolfmeat",
 		"price": 3,
 		"category": "Meat",
@@ -7627,16 +7873,16 @@
 		"defname": "Leather_Wolf"
 	},
 	{
-		"abr": "woodenarmor",
-		"price": 180,
-		"category": "Apparel",
-		"defname": "VAE_Apparel_WoodenArmor"
+		"abr": "wood",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "WoodLog"
 	},
 	{
-		"abr": "woodworkingtable",
-		"price": 358,
-		"category": "Production",
-		"defname": "TableWoodworking"
+		"abr": "woodenarmor",
+		"price": 220,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_WoodenArmor"
 	},
 	{
 		"abr": "woolcloth",
@@ -7646,7 +7892,7 @@
 	},
 	{
 		"abr": "woolloom",
-		"price": 121,
+		"price": 148,
 		"category": "Production",
 		"defname": "BenchWoolLoom"
 	},
@@ -7705,5 +7951,5 @@
 		"defname": "AEXP_Zebra"
 	}
 	],
-	"total": 1284
+	"total": 1325
 }
