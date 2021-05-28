@@ -6481,18 +6481,6 @@
 		"defname": "VCE_AgaveNectar"
 	},
 	{
-		"abr": "air-conindoorunit",
-		"price": 82,
-		"category": "Hygiene",
-		"defname": "AirconIndoorUnit"
-	},
-	{
-		"abr": "air-conoutdoorunit",
-		"price": 458,
-		"category": "Hygiene",
-		"defname": "AirConOutdoorUnit"
-	},
-	{
 		"abr": "angelmoth",
 		"price": 750,
 		"category": "Animal",
@@ -6601,18 +6589,6 @@
 		"defname": "AA_Barbslinger"
 	},
 	{
-		"abr": "basin",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "BasinStuff"
-	},
-	{
-		"abr": "bathtub",
-		"price": 124,
-		"category": "Hygiene",
-		"defname": "BathtubStuff"
-	},
-	{
 		"abr": "bedbug",
 		"price": 167,
 		"category": "Animal",
@@ -6641,12 +6617,6 @@
 		"price": 892,
 		"category": "Animal Body Part",
 		"defname": "AA_BionicBeak"
-	},
-	{
-		"abr": "bionicbladder",
-		"price": 1308,
-		"category": "Bionic",
-		"defname": "BionicBladder"
 	},
 	{
 		"abr": "bionicbuoyancymechanism",
@@ -6683,18 +6653,6 @@
 		"price": 1117,
 		"category": "Animal Body Part",
 		"defname": "AA_BionicWing"
-	},
-	{
-		"abr": "biosolids",
-		"price": 0,
-		"category": "Waste",
-		"defname": "Biosolids"
-	},
-	{
-		"abr": "biosolidscomposter",
-		"price": 146,
-		"category": "Hygiene",
-		"defname": "BiosolidsComposter"
 	},
 	{
 		"abr": "blackhiveinsectjelly",
@@ -6869,18 +6827,6 @@
 		"price": 383,
 		"category": "Production",
 		"defname": "VCE_CanningMachine"
-	},
-	{
-		"abr": "ceilingfan1x1",
-		"price": 184,
-		"category": "Hygiene",
-		"defname": "CeilingFanS"
-	},
-	{
-		"abr": "ceilingfan2x2",
-		"price": 184,
-		"category": "Hygiene",
-		"defname": "CeilingFan"
 	},
 	{
 		"abr": "chameleonyak",
@@ -7177,22 +7123,10 @@
 		"defname": "Meat_AA_DuskRat"
 	},
 	{
-		"abr": "electricboiler",
-		"price": 425,
-		"category": "Hygiene",
-		"defname": "ElectricBoiler"
-	},
-	{
 		"abr": "electricpot",
 		"price": 216,
 		"category": "Production",
 		"defname": "VCE_ElectricPot"
-	},
-	{
-		"abr": "electricpump",
-		"price": 316,
-		"category": "Hygiene",
-		"defname": "ElectricPump"
 	},
 	{
 		"abr": "erin",
@@ -7255,12 +7189,6 @@
 		"defname": "VCE_CookedSoupFine"
 	},
 	{
-		"abr": "firesprinkler",
-		"price": 104,
-		"category": "Hygiene",
-		"defname": "FireSprinkler"
-	},
-	{
 		"abr": "firewasp",
 		"price": 583,
 		"category": "Animal",
@@ -7319,12 +7247,6 @@
 		"price": 3,
 		"category": "Plant matter",
 		"defname": "VCE_Flour"
-	},
-	{
-		"abr": "fountain",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "Fountain"
 	},
 	{
 		"abr": "frostave",
@@ -7391,12 +7313,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Gallatross"
-	},
-	{
-		"abr": "gasboiler",
-		"price": 425,
-		"category": "Hygiene",
-		"defname": "GasBoiler"
 	},
 	{
 		"abr": "gigantelope",
@@ -7567,28 +7483,10 @@
 		"defname": "VCE_HotSauce"
 	},
 	{
-		"abr": "hottub",
-		"price": 800,
-		"category": "Hygiene",
-		"defname": "HotTub"
-	},
-	{
-		"abr": "hotwatertank",
-		"price": 245,
-		"category": "Hygiene",
-		"defname": "HotWaterTank"
-	},
-	{
 		"abr": "hugeanimapearl",
 		"price": 83,
 		"category": "Manufactured",
 		"defname": "AA_HugeAnimaPearl"
-	},
-	{
-		"abr": "hygieneenhancer",
-		"price": 1308,
-		"category": "Bionic",
-		"defname": "HygieneEnhancer"
 	},
 	{
 		"abr": "hyperacidicstomachimplant",
@@ -7651,12 +7549,6 @@
 		"defname": "Meat_AA_IronhuskBeetle"
 	},
 	{
-		"abr": "irrigationsprinkler",
-		"price": 102,
-		"category": "Hygiene",
-		"defname": "IrrigationSprinkler"
-	},
-	{
 		"abr": "junglelisk",
 		"price": 833,
 		"category": "Animal",
@@ -7681,28 +7573,10 @@
 		"defname": "VCE_Ketchup"
 	},
 	{
-		"abr": "kitchensink",
-		"price": 167,
-		"category": "Hygiene",
-		"defname": "KitchenSink"
-	},
-	{
-		"abr": "largeradiator",
-		"price": 252,
-		"category": "Hygiene",
-		"defname": "RadiatorLarge"
-	},
-	{
 		"abr": "larvalatispec",
 		"price": 25,
 		"category": "Animal",
 		"defname": "AA_LarvalAtispec"
-	},
-	{
-		"abr": "latrine",
-		"price": 55,
-		"category": "Hygiene",
-		"defname": "PitLatrine"
 	},
 	{
 		"abr": "lavishbake",
@@ -7735,12 +7609,6 @@
 		"defname": "AA_LightFocusingLensImplant"
 	},
 	{
-		"abr": "litterbox",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "LitterBox"
-	},
-	{
 		"abr": "lizardmeat",
 		"price": 3,
 		"category": "Meat",
@@ -7757,12 +7625,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Lockjaw"
-	},
-	{
-		"abr": "logboiler",
-		"price": 642,
-		"category": "Hygiene",
-		"defname": "LogBoiler"
 	},
 	{
 		"abr": "luciferbug",
@@ -8089,28 +7951,10 @@
 		"defname": "Meat_AA_Plasmorph"
 	},
 	{
-		"abr": "plumbingvalve",
-		"price": 50,
-		"category": "Hygiene",
-		"defname": "plumbingValve"
-	},
-	{
-		"abr": "powershower",
-		"price": 170,
-		"category": "Hygiene",
-		"defname": "ShowerAdvStuff"
-	},
-	{
 		"abr": "quadteslacannonimplant",
 		"price": 1333,
 		"category": "Animal Body Part",
 		"defname": "AA_QuadTeslaCannonImplant"
-	},
-	{
-		"abr": "radiator",
-		"price": 85,
-		"category": "Hygiene",
-		"defname": "RadiatorStuffed"
 	},
 	{
 		"abr": "radyak",
@@ -8329,12 +8173,6 @@
 		"defname": "Meat_AA_ShockGoat"
 	},
 	{
-		"abr": "shower",
-		"price": 90,
-		"category": "Hygiene",
-		"defname": "ShowerStuff"
-	},
-	{
 		"abr": "simplebake",
 		"price": 25,
 		"category": "Meals",
@@ -8389,12 +8227,6 @@
 		"defname": "AA_ProstheticWing"
 	},
 	{
-		"abr": "simpleshower",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "ShowerSimple"
-	},
-	{
 		"abr": "simplesoup",
 		"price": 20,
 		"category": "Meals",
@@ -8417,12 +8249,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Slurrypede"
-	},
-	{
-		"abr": "smarttoilet",
-		"price": 182,
-		"category": "Hygiene",
-		"defname": "ToiletAdvStuff"
 	},
 	{
 		"abr": "smokeleafbutter",
@@ -8527,22 +8353,10 @@
 		"defname": "AA_Thermadon"
 	},
 	{
-		"abr": "thermostat",
-		"price": 86,
-		"category": "Hygiene",
-		"defname": "Thermostat"
-	},
-	{
 		"abr": "thunderbeast",
 		"price": 1250,
 		"category": "Animal",
 		"defname": "AA_Thunderbeast"
-	},
-	{
-		"abr": "toilet",
-		"price": 72,
-		"category": "Hygiene",
-		"defname": "ToiletStuff"
 	},
 	{
 		"abr": "uncookedfinesoup",
@@ -8579,30 +8393,6 @@
 		"price": 1333,
 		"category": "Animal Body Part",
 		"defname": "AA_VenomousSpitterImplant"
-	},
-	{
-		"abr": "walk-infreezerunit",
-		"price": 153,
-		"category": "Hygiene",
-		"defname": "FreezerUnit"
-	},
-	{
-		"abr": "washingmachine",
-		"price": 433,
-		"category": "Hygiene",
-		"defname": "WashingMachine"
-	},
-	{
-		"abr": "waterbutt",
-		"price": 89,
-		"category": "Furniture",
-		"defname": "WaterButt"
-	},
-	{
-		"abr": "watertub",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "WashBucket"
 	},
 	{
 		"abr": "adrenalineribreplacement",
@@ -9553,12 +9343,6 @@
 		"defname": "TP_Tome_Energy_Charge"
 	},
 	{
-		"abr": "anti-armorrocketlauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "Gun_AntiArmor_Rocket"
-	},
-	{
 		"abr": "basicmechanites",
 		"price": 833,
 		"category": "Bionic",
@@ -9991,28 +9775,10 @@
 		"defname": "TP_Hydromechanical_Stomach"
 	},
 	{
-		"abr": "industrialammo",
-		"price": 3,
-		"category": "Ammo",
-		"defname": "yy_ammo_industrial"
-	},
-	{
-		"abr": "industrialexplosiveammo",
-		"price": 3,
-		"category": "Ammo",
-		"defname": "yy_ammo_industrial_fire"
-	},
-	{
 		"abr": "industrialmechanites",
 		"price": 2000,
 		"category": "Archotech",
 		"defname": "TP_Industrial_Mechanites"
-	},
-	{
-		"abr": "industrialspecialammo",
-		"price": 3,
-		"category": "Ammo",
-		"defname": "yy_ammo_industrial_emp"
 	},
 	{
 		"abr": "infiniteadvancedcomponentsynthesizer",
@@ -10279,12 +10045,6 @@
 		"defname": "TP_Plague_Vaccine"
 	},
 	{
-		"abr": "primitiveexplosiveammo",
-		"price": 1,
-		"category": "Ammo",
-		"defname": "yy_ammo_primitive_fire"
-	},
-	{
 		"abr": "primitiveeyepiece",
 		"price": 583,
 		"category": "Simple parts",
@@ -10301,12 +10061,6 @@
 		"price": 250,
 		"category": "Simple parts",
 		"defname": "TP_Primitive_Respirator"
-	},
-	{
-		"abr": "primitivespecialammo",
-		"price": 1,
-		"category": "Ammo",
-		"defname": "yy_ammo_primitive_emp"
 	},
 	{
 		"abr": "primitivestomach",
@@ -10499,169 +10253,7 @@
 		"price": 917,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_TP_Heart_Impulse"
-	},
-	{
-		"abr": "psytrainer(mindcontrol)",
-		"price": 667,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_TP_Mind_Control"
-	},
-	{
-		"abr": "psytrainer(painimpulse)",
-		"price": 417,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_TP_Pain_Impulse"
-	},
-	{
-		"abr": "psytrainer(painwave)",
-		"price": 1167,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_TP_Pain_Wave"
-	},
-	{
-		"abr": "psytrainer(panicscream)",
-		"price": 1417,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_TP_Panic_Scream"
-	},
-	{
-		"abr": "psytrainer(psychicshield)",
-		"price": 1167,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_TP_Psychic_Shield"
-	},
-	{
-		"abr": "psytrainer(psychicwave)",
-		"price": 1167,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_TP_Psychic_Wave"
-	},
-	{
-		"abr": "psytrainer(shelter)",
-		"price": 1417,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_TP_Shelter"
-	},
-	{
-		"abr": "psytrainer(suppressingelectronics)",
-		"price": 417,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_TP_Suppressing_Electronics"
-	},
-	{
-		"abr": "psytrainer(wordofconfidence)",
-		"price": 667,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_TP_Word_Of_Confidence"
-	},
-	{
-		"abr": "reinforcedelectrochemicalarm",
-		"price": 1300,
-		"category": "Bionic",
-		"defname": "TP_Reinforced_Electrochemical_Arm"
-	},
-	{
-		"abr": "reinforcedelectrochemicalleg",
-		"price": 1300,
-		"category": "Bionic",
-		"defname": "TP_Reinforced_Electrochemical_Leg"
-	},
-	{
-		"abr": "sensoryactivearm",
-		"price": 1192,
-		"category": "Bionic",
-		"defname": "TP_Sensory_Active_Hand"
-	},
-	{
-		"abr": "sensoryactiveleg",
-		"price": 1192,
-		"category": "Bionic",
-		"defname": "TP_Sensory_Active_Leg"
-	},
-	{
-		"abr": "shieldgenerator",
-		"price": 833,
-		"category": "Bionic",
-		"defname": "TP_Unstable_Shield_Generator"
-	},
-	{
-		"abr": "shockproofplates",
-		"price": 833,
-		"category": "Bionic",
-		"defname": "TP_Shockproof_Plates"
-	},
-	{
-		"abr": "simplemechanicalarm",
-		"price": 483,
-		"category": "Simple parts",
-		"defname": "TP_Simple_Mechanical_Arm"
-	},
-	{
-		"abr": "soundimplant",
-		"price": 583,
-		"category": "Simple parts",
-		"defname": "TP_Sound_Implant"
-	},
-	{
-		"abr": "soundwavegenerator",
-		"price": 1333,
-		"category": "Bionic",
-		"defname": "TP_Sound_Wave_Generator"
-	},
-	{
-		"abr": "spacerammo",
-		"price": 4,
-		"category": "Ammo",
-		"defname": "yy_ammo_spacer"
-	},
-	{
-		"abr": "spacerexplosiveammo",
-		"price": 4,
-		"category": "Ammo",
-		"defname": "yy_ammo_spacer_fire"
-	},
-	{
-		"abr": "spacerspecialammo",
-		"price": 12,
-		"category": "Ammo",
-		"defname": "yy_ammo_spacer_emp"
-	},
-	{
-		"abr": "speechimplant",
-		"price": 1333,
-		"category": "Bionic",
-		"defname": "TP_Speech_Implant"
-	},
-	{
-		"abr": "synchronizer",
-		"price": 2000,
-		"category": "Bionic",
-		"defname": "TP_Synchronizer"
-	},
-	{
-		"abr": "teachingai",
-		"price": 5000,
-		"category": "Archotech",
-		"defname": "TP_Teaching_AI"
-	},
-	{
-		"abr": "technologicalmechanites",
-		"price": 1333,
-		"category": "Bionic",
-		"defname": "TP_Technological_Mechanites"
-	},
-	{
-		"abr": "tuberculosisvaccine",
-		"price": 500,
-		"category": "Drugs",
-		"defname": "TP_Tuberculosis_Vaccine"
-	},
-	{
-		"abr": "vitamins",
-		"price": 25,
-		"category": "Drugs",
-		"defname": "TP_Vitamins"
-	},
+	}
 	],
-	"total": 1784
+	"total": 1750
 }
