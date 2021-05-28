@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 2000,
-		"karmatype": "Doom"
+		"price": 2500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 5000,
+		"price": 5500,
 		"karmatype": "Doom"
 	},
 	{
@@ -22,8 +22,8 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
+		"price": 3500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "foggyrain",
@@ -106,11 +106,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
@@ -142,7 +137,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -227,7 +222,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -321,11 +316,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -339,7 +329,32 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "earthquake",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "drought",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "huntingparty",
+		"price": 500,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 68
+	"total": 71
 }
